@@ -1,16 +1,16 @@
-# JS-HOMEWORK3 - 3주차 과제 (캐러셀 컴포넌트)
+# 4주차 과제
 
-## 프로젝트 구조
-```
-JS-HOMEWORK3/
-├── index.html
-├── carousel.css
-├── carousel.js
-└── 3주차회고.md
-```
+## 1. 제공된 디자인 리소스 → 애니메이션
+- figma 디자인 참고하여 텍스트/그래픽 애니메이션 구현
+- 자유롭게 상상한 움직임, 방법 제한 없음
+- `week4/index.html`, `week4/style.css` 참고
 
-## 3주차 과제
-- Carousel 컴포넌트 개발 (디자인 리소스 기반)
-- [Figma 프로토타입 참고](https://www.figma.com/proto/A2q6zIV04aFiqQxNXhBSjF/%EC%BA%90%EB%9F%AC%EC%85%80-Carousel--%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8?node-id=4-227&t=iCO1NgunCKTZeNOV-1&scaling=min-zoom&content-scaling=fixed&page-id=4%3A226&starting-point-node-id=4%3A227)
-- [3주차 회고](./3주차회고.md) 
+## 2. 직접 만든 디자인 → 애니메이션
+- 직접 만든 랜딩 UI + 애니메이션 구현 (허접 OK)
+- `week4/my-design.html`, `week4/style.css` 참고
+
+---
+
+- 모든 4주차 과제 파일은 `week4/` 폴더에 있습니다.
+- 기존 파일은 변경하지 않았습니다.
 
